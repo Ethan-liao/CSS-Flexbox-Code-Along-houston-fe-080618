@@ -1,6 +1,8 @@
 
+
 .container {
   display:flex;
+  height:1000px;
   /*flex-direction: ;*/
   align-items:center;
 }
